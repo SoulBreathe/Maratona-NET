@@ -1,6 +1,18 @@
-Repositório criado para documentar minha jornada de estudos em C# e .NET.
+<div align="center">
 
-# Tópicos estudados:
+# RepositÃ³rio para documentar meus estudos em C# e .NET
+
+</div>
+
+<br><br>
+
+<div align="center">
+    
+## TÃ³picos estudados:
+
+</div>
+
+<br><br>
 
 ## Fundamentos 
 	- Comentarios (Comentarios.cs)
@@ -11,7 +23,7 @@ Repositório criado para documentar minha jornada de estudos em C# e .NET.
 	- Operador Ternario (OperadorTernario.cs)
 	- Variaveis (Variavei.cs)
 
-## Funções 
+## FunÃ§Ãµes 
 	- Funcao (Funcao.cs)
 	- Parametro (Parametro.cs)
 
@@ -24,3 +36,9 @@ Repositório criado para documentar minha jornada de estudos em C# e .NET.
 	- Stack (StackAula.cs)
  
 ## Estrutura de Controle 
+	- BreakContinue (BreakeContinue.cs)
+	- ForAula (ForAula.cs)
+	- Foreach (ForeachAula.cs)
+    - If/ElseIf/Else (IfElse.cs)
+	- Switch (SwitchAula.cs)
+	- While/DoWhile (WhileDoWhile.cs)
