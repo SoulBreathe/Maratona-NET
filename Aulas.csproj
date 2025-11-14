@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="EstruturaDeControle\If\**" />
+    <EmbeddedResource Remove="EstruturaDeControle\If\**" />
+    <None Remove="EstruturaDeControle\If\**" />
+  </ItemGroup>
+
 </Project>

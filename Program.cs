@@ -1,8 +1,11 @@
 ﻿using Aulas.Funcao;
 using Aulas.Funcoes;
 using Aulas.Fundamentos;
+using Aulas.EstruturaDeDados;
 using System;
+using System.Collections;
 using System.Reflection.Metadata;
+using Aulas.EstruturaDeControle;
 
 class Program
 {
@@ -34,5 +37,38 @@ class Program
 
         // Aula como utilizar parametros
         Parametro.Mostrar();
+
+        // Aula como utilizar arrayList
+        ArrayListAula.Mostrar();
+
+        // Aula como utilizar arrayTipado
+        ArrayTipado.Mostrar();
+
+        // Aula lista Genérica
+        ListaGenerica.Mostrar();
+
+        // Aula Dicionario
+        Dicionario.Mostrar();
+
+        // Aula Queue
+        QueueAula.Mostrar();
+
+        // Aula Queue
+        StackAula.Mostrar();
+
+        // Aula IF/ElseIF/Else
+        IfElse.Mostrar();
+
+        // Aula Switch
+        SwitchAula.Mostrar();
+
+        // Aula For 
+        ForAula.Mostrar();
+
+        // Aula Foreach
+        ForeachAula.Mostrar();
+
+        // Aula While / DoWhile
+        WhileDoWhileAula.Mostrar();
     }
 }
