@@ -1,11 +1,9 @@
-﻿using Aulas.Funcao;
+﻿using Aulas.ClassesEOutrosTipos;
+using Aulas.EstruturaDeControle;
+using Aulas.EstruturaDeDados;
+using Aulas.Funcao;
 using Aulas.Funcoes;
 using Aulas.Fundamentos;
-using Aulas.EstruturaDeDados;
-using System;
-using System.Collections;
-using System.Reflection.Metadata;
-using Aulas.EstruturaDeControle;
 
 class Program
 {
@@ -70,5 +68,23 @@ class Program
 
         // Aula While / DoWhile
         WhileDoWhileAula.Mostrar();
+
+        // Aula Classe
+        Classe.Mostrar();
+
+        // Aula Propriedades Somente leitura
+        PropriedadeSomenteLeitura.Mostrar();
+
+        // Aula Herança
+        Heranca.Mostrar();
+
+        // Aula Classe Selada
+        ClasseSelada.Mostrar();
+
+        // Aula Classe Abstrada
+        ClasseAbstrata.Mostrar();
+
+        // Aula Record
+        Record.Mostrar();
     }
 }

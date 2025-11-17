@@ -26,6 +26,8 @@ namespace Aulas.EstruturaDeControle
             {
                 Console.WriteLine(letra);
             }
+
+            Console.WriteLine();
         }
     }
 }

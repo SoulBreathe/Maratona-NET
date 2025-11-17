@@ -50,4 +50,17 @@
 	🔹 While/DoWhile (WhileDoWhile.cs)
 ```
 
+## Classes e outros tipos
+```text 
+	🔹 Classe (Classe.cs)
+	🔹 Classe Abstrata (ClasseAbstrada.cs)
+	🔹 Classe Selada (ClasseSelada.cs)
+    🔹 Herança (Heranca.cs)
+	🔹 Interface (Interface.cs)
+	🔹 Poo (POO.cs)
+	🔹 Propriedade Somente Leitura (PropriedadeSomenteLeitura.cs)
+	🔹 Record (Record.cs)
+	🔹 Top Level Stament (TopLevelStament.cs)
+```
+
 
