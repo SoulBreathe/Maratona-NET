@@ -20,7 +20,7 @@ namespace Aulas.EstruturaDeDados
             arrayTipadoNumero[2] = 10;
 
             // Essa função aumenta o tamanho do array, por defaut os valores atribuidos é 0
-            Array.Resize(ref arrayTipadoNumero, 100);
+            Array.Resize(ref arrayTipadoNumero, 20);
 
             foreach(var item in arrayTipadoNumero )
             {

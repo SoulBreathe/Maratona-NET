@@ -1,9 +1,12 @@
 ﻿using Aulas.ClassesEOutrosTipos;
+using Aulas.ConversoresDeValor;
 using Aulas.EstruturaDeControle;
+using Aulas.Strings;
 using Aulas.EstruturaDeDados;
 using Aulas.Funcao;
 using Aulas.Funcoes;
 using Aulas.Fundamentos;
+using ConverterMinusculo;
 
 class Program
 {
@@ -86,5 +89,26 @@ class Program
 
         // Aula Record
         Record.Mostrar();
+
+        // Aula Interface
+        Interface.Mostrar();
+
+        // Aula Conversores
+        ConvertParse.Mostrar();    
+
+        // Aula Tryparse
+        TryParse.Mostrar();
+
+        // Aula ToLower 
+        AulaToLower.Mostrar();
+
+        // Aula ToUpper 
+        AulaToUpper.Mostrar();
+
+        // Aula Substring 
+        AulaSubstring.Mostrar();
+
+        // Aula Range
+        AulaRange.Mostrar();
     }
 }

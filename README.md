@@ -63,4 +63,17 @@
 	🔹 Top Level Stament (TopLevelStament.cs)
 ```
 
+## String
+```text 
+	🔹 Contains (AulaContains.cs)
+	🔹 Length (AulaLength.cs)
+	🔹 Range (AulaRange.cs)
+    🔹 Replace (AulaReplace.cs)
+	🔹 Substring (AulaSubstring.cs)
+	🔹 StartsWith EndsWith (AulaStartsWithEndsWith.cs)
+	🔹 Trim (AulaTrim.cs)
+	🔹 ToUpper (AulaToUpper.cs)
+	🔹 ToLower (AulaToLower.cs)
+```
+
 
