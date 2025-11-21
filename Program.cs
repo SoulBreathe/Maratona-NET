@@ -110,5 +110,20 @@ class Program
 
         // Aula Range
         AulaRange.Mostrar();
+
+        // Aula Contains
+        AulaContains.Mostrar();
+
+        // Aula Trins
+        AulaTrim.Mostrar();
+
+        // Aula StartsWith EndsWith
+        AulaStartsWithEndsWith.Mostrar();
+
+        // Aula Replace
+        AulaReplace.Mostrar();
+
+        // Aula Length
+        AulaLength.Mostrar();
     }
 }

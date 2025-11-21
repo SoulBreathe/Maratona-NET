@@ -21,9 +21,6 @@ namespace Aulas.Strings
     }
 }
 
-
-
-
 namespace DeclaracaoRange
 {
     public class UtilizandoRange

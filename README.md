@@ -76,4 +76,15 @@
 	🔹 ToLower (AulaToLower.cs)
 ```
 
+## Datas
+```text 
+	🔹 Data Time (AulaDataTime.cs)
+	🔹 Data Only (AulaDataOnly.cs)
+	🔹 Adicionando Dia Mes Ano (AdicionandoHorasMinutosSegundos.cs)
+    🔹 Adicionando Horas Minutos Segundos (AdicionandoDiaMesAno.cs)
+	🔹 Subtraindo Datas (SubtraindoDatas.cs)
+	🔹 Recuperando Dia Semana (RecuperandoDiaSemana.cs)
+	🔹 Time Only (AulaDataTime.cs)
+```
+
 
